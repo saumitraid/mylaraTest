@@ -26,3 +26,6 @@ Homestead.yaml
 Thumbs.db
 vite.config.js
 artisan
+composer.lock
+package.json
+README.md
